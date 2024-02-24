@@ -1,2 +1,2 @@
 # himo
-commercial project for a coffee shop.
+website for Xiaomi Himo C26
